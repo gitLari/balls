@@ -19,7 +19,7 @@ pipeline {
     }
     stage('Delivery') {
       steps {
-        sh 'rpm start'
+        sh 'npm start'
       }
     }
   }
