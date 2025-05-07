@@ -1,2 +1,2 @@
-# balls
-Projektin jenkins auto buildia varten
+# balls projekti
+Projektin jenkins auto buildia varten CI / CD
